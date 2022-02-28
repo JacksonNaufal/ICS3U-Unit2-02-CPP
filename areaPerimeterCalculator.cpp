@@ -1,7 +1,7 @@
 // Copyright (c) 2022 Jackson Naufal All rights reserved
 // Created By Jackson Naufal
 // Created On Feb 2022
-// This is a "Hello, World!" program with proper style"
+// This is a "Area and Perimeter" program with proper style"
 
 
 
